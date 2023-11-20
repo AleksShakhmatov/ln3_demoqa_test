@@ -10,3 +10,5 @@ build/
 *.ipr
 
 .gradle
+
+*.log
